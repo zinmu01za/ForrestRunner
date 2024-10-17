@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cd4d831008e2890498d722b55dfc756d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Tooney Noodle NF
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a76e55d67f5eb6140bb15786bf31e24f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
